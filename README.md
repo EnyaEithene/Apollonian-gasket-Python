@@ -5,8 +5,8 @@ This project generates an interactive visualization of the Apollonian gasket fra
 It's a program that was rewritten in Python using the video made by The Coding Train at [Challenge #182 - Apollonian Gasket](https://thecodingtrain.com/challenges/182-apollonian-gasket).
 AI was used to help with translating certain JavaScript functions and to add comments throughout the code.
 
-![[Apollonian Gasket.gif]]
-Images of the A
+![[Documentation/Apollonian Gasket.gif]]
+Images of the Apollonian Gasket iterations
 
 ## Table of Contents
 
